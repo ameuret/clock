@@ -1,0 +1,16 @@
+{
+  "name": "clock",
+  "main": "./lib/clock",
+  "version": "0.0.0",
+  "description": "A mostly harmless status bar clock",
+  "activationCommands": {
+    "atom-workspace": "clock:toggle"
+  },
+  "repository": "https://github.com/atom/clock",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
